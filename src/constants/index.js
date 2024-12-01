@@ -11,11 +11,11 @@ export const PHRASES = [
 
 export const EXPERIENCES = [
   {
-    year: "10 / 2023 - Present",
+    year: "10/2023 - Present",
     role: "Full Stack Developer",
     company: "株式会社テルミック",
-    description: `During my internship in Chatbot Development, I refined code using SonarQube, followed TDD for building chatbot flows, and gained insights into agile software development from design to maintenance.`,
-    technologies: ["JavaScript", "SonarQube", "AWS Lambda", "Serverless"],
+    description: `Built and managed 3 full-stack websites end-to-end, mastering development, deployment, and maintenance with cutting-edge technologies.`,
+    technologies: ["NextJs", "MongoDB", "Node.Js", "Docker", "Nginx"],
   },
 ];
 
