@@ -31,7 +31,7 @@ const iconData = [
   { Icon: FaNodeJs, color: "text-green-500", name: "Node.js" },
   { Icon: FaDocker, color: "text-blue-400", name: "Docker" },
   { Icon: FaJenkins, color: "text-red-500", name: "Jenkins" },
-  { Icon: SiNginx, color: "text-red-500", name: "Nginx" },
+  { Icon: SiNginx, color: "text-green-500", name: "Nginx" },
   { Icon: SolanaColorful, color: "text-blue-500", name: "Solana" },
   { Icon: AiOutlineKubernetes, color: "text-blue-500", name: "Kubernetes" },
 ];
